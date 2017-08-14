@@ -14,6 +14,20 @@ chsh -s $(which zsh)
 
 ## install git
 
+## install neovim
+```sh
+sudo apt-get install python-dev python-pip python3-dev python3-pip software-properties-common
+sudo add-apt-repository ppa:neovim-ppa/stable
+```
+
+```sh
+sudo sh ~/Downloads/crouton -u
+```
+
+```sh
+sudo apt-get install neovim
+```
+
 ## [shell] install_powerline_symbols.sh
 
 ## install oh my zsh
