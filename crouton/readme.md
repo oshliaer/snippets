@@ -57,4 +57,5 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 You then need to select this theme in your ~/.zshrc:
 ```sh
 ZSH_THEME="powerlevel9k/powerlevel9k"
+export TERM="xterm-256color"
 ```
