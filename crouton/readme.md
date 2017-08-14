@@ -7,4 +7,7 @@ sh -c "$(wget https://raw.githubusercontent.com/oshliaer/snippets/master/crouton
 # https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 sudo apt-get install zsh
 chsh -s $(which zsh)
+
+# fix installs
+# usr/share/zsh/functions/Newuser/zsh-newuser-install -f
 ```
