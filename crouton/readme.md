@@ -28,6 +28,12 @@ sudo sh ~/Downloads/crouton -u
 sudo apt-get install neovim
 ```
 
+### Select default editor
+
+```sh
+/usr/bin/select-editor
+```
+
 ## [shell] install_powerline_symbols.sh
 
 ## install oh my zsh
