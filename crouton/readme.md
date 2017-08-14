@@ -15,7 +15,11 @@ chsh -s $(which zsh)
 ## install git
 
 ## install neovim
+
+https://github.com/neovim/neovim/wiki/Installing-Neovim
+
 ```sh
+# https://github.com/neovim/neovim/wiki/Installing-Neovim
 sudo apt-get install python-dev python-pip python3-dev python3-pip software-properties-common
 sudo add-apt-repository ppa:neovim-ppa/stable
 ```
@@ -30,11 +34,15 @@ sudo apt-get install neovim
 
 ### Select default editor
 
+https://askubuntu.com/a/946209/405710
+
 ```sh
+# https://askubuntu.com/a/946209/405710
 /usr/bin/select-editor
 ```
 
 ## [shell] install_powerline_symbols.sh
+[install_powerline_symbols.sh](./install_powerline_symbols.sh)
 
 ## install oh my zsh
 ```sh
