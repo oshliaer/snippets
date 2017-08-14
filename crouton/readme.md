@@ -41,7 +41,7 @@ https://askubuntu.com/a/946209/405710
 /usr/bin/select-editor
 ```
 
-## [shell] install_powerline_symbols.sh
+## [shell] Install Powerline Symbols
 [install_powerline_symbols.sh](./install_powerline_symbols.sh)
 
 ## install oh my zsh
